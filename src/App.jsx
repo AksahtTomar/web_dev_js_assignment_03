@@ -127,9 +127,9 @@ function App() {
   // Simple state to hold our students
   const [students, setStudents] = useState([
     { id: 1, name: 'Aman', score: 78 },
-    { id: 2, name: 'Rahul', score: 45 },
-    { id: 3, name: 'Karan', score: 90 },
-    { id: 4, name: 'Rohan', score: 32 },
+    { id: 2, name: 'Mayank', score: 45 },
+    { id: 3, name: 'Sahil', score: 90 },
+    { id: 4, name: 'Abdul', score: 32 },
   ]);
 
   const [nameInput, setNameInput] = useState('');
